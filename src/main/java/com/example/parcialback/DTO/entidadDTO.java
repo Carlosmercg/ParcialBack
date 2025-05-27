@@ -14,6 +14,6 @@ public class entidadDTO {
     private Long id;
     private String nit;
     private String nombre;
-    private List<Long> contratosIds;  // solo lista con IDs de contratos
+    private List<Long> contratosIds; 
 
 }
